@@ -1,0 +1,317 @@
+<html>
+<head>
+    <title> Trisna </title>
+</head>
+<body> 
+    <table align="center">
+    <tr> <img src="">   <font size="20">    <td align="left" > <shadow>  Rumah Sakit </shadow> </td> </font>     <td align="right"> RM.01</td> </tr>
+    <tr>    <font size="30">    <td align="left">   Royal Progress</td> </font> <td align="right"> <b> FORMULIR PENDAFTARAN RAWAT INAP/ ONE DAY CARE</b> </td> </tr>
+    <tr>    <font size="10">    <td align="left" >  melayani dengan cinta kasih </td> </font>  <td align="right"> semua bagian harus diisi </td> </tr>
+    </table>
+
+    <head>
+<style>
+.myDiv {
+  border: 2px outset black ;overflow-x: 
+  padding:20px;
+  margin : 0 auto;
+  background-color: white;
+  border-radius :25px
+  border:2px solid #73AD21;
+  padding: 20px;
+  width: 750px;
+  height: 1200px; 
+}
+</style>
+</head>
+<body>
+
+<div class="myDiv" >
+    <p align="right">  <font size="5"> No rekam medis  </font></p>
+  <p><tr> <font size="2"> No register : </font> <b> ______________________________________________ </b> 
+ 
+    <td align="right"> <label for="1" > </label>
+  
+    <input type="text" id="1" name="1" style="height:23px; width:40px;"><label for="name" > </label>
+ 
+    <input type="text" id="2" name="2" style="height:23px; width:40px;"><label for="name" > </label>
+ 
+    <input type="text" id="3" name="3" style="height:23px; width:40px;"> </td>
+    
+  <head>
+    <title> Trisna </title>
+
+    <style>
+        .container {
+            width: 100%;
+        }
+
+        .label {
+            width: 250px;
+        }
+         .label1 {
+            width: 50px;
+        }
+        .label1a {
+            padding-right: 10px
+        }
+        .label1b {
+            padding-right: 10px
+        }.label1c {
+            padding-right: 10px
+        }
+         .label2 {
+            padding-left: 250px    
+        }
+        .label3 {
+            padding-left: 250px    
+        }
+         .label4 {
+            
+            font-size: 13.7px
+        }
+         .label4a {
+            
+            font-size: 13.7px
+        }
+         .label4b {
+            
+            font-size: 13.7px
+        }
+        .label5a {
+            padding-left: 250px   }
+        .label5b {
+            padding-left: 250px   }
+        .label6a {
+            margin-left:  250px    
+        }
+        .label6b {
+            padding-left: 250px    
+        }
+        .Text1 {
+             flex-grow: 1;
+            border-bottom: 1px solid black;
+            margin-left: 5px;   
+        }
+        .row {
+            display: flex;
+        }
+        
+        .underline {
+            flex-grow: 1;
+            border-bottom: 1px solid black;
+            margin-left: 5px;
+        }
+        .underline1 {
+            flex-grow: 1;
+            border-bottom: 1px solid black;
+            margin-left: 50px;
+        }
+        .underline1a {
+            flex-grow: 1;
+            border-bottom: 1px solid black;
+            margin-left: 70px;
+        }
+         .underline1b {
+            flex-grow: 1;
+            border-bottom: 1px solid black;
+            margin-left: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class='container'>
+        <h4>A. IDENTITAS PASIEN (bagian ini harus lengkap dan diisi oleh pasien)</h4>
+        <div class='row'>
+            <div class='label'>Nama depan (sesuai KTP)</div>
+            <span>:</span>
+            <div class='underline'></div>
+            <span><input type="checkbox" >laki</span>
+            <span><input type="checkbox" >perempuan</span>
+        </div>
+        <div class='row'>
+            <div class='label'>Nama ibu kandung (sesuai KTP)</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+         <div class='row'>
+            <div class='label'> tempat dan tanggal lahir </div> 
+            <span>:</span>
+            <div class='underline'></div>
+             <div class='label1'> Agama </div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+         <div class='row'>
+            <div class='label'> Alamat </div> 
+            <span>:</span>
+            <div class='underline'></div>
+             <div class='label1a'> No </div>
+            <span>:</span>
+            <div class='underline'></div>
+             <div class='label1b'> RT </div>
+            <span>:</span>
+            <div class='underline'></div>
+             <div class='label1c'> Rw </div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        
+            <div class="row">
+              <div class='label2'> Kelurahan </div>
+            <span>:</span>
+            <div class='underline1a'></div>  
+            <div class='label1'> Kec </div>
+            <span>:</span>
+            <div class='underline'></div>     
+        </div>
+        <div class="row">
+              <div class='label2'> Kota/wilayah </div>
+            <span>:</span>
+            <div class='underline1'></div>  
+            <div class='label1'> Telepon </div>
+            <span>:</span>
+            <div class='underline'></div>     
+        </div>
+        <div class="row">
+              <div class='label3'> Email </div>
+            <span>:</span>
+            <div class='underline1b'></div>  
+            <div class='label1'> HP </div>
+            <span>:</span>
+            <div class='underline'></div>   
+        </div>
+        <div class='row'>
+            <div class='label'>Pendidikan Terakhir</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Pekerjaan/Bagian</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Alamat Kantor</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Warga Negara</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label4'>Pernah Dirawat di RS Royal Progress tanggal</div>
+            <span>:</span>
+            <div class='underline'></div>
+             <div class='label4a'> Bulan </div>
+            <span>:</span><div class='underline'></div>
+             <div class='label4b'> Tahun </div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+    </div>
+    <div class='container'>
+        <h4>B. Identitas Penanggung Jawab (Bagian ini mohon diisi penanggung jawab</h4>
+        <div class='row'>
+            <div class='label'>Nama depan (sesuai KTP)</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Nama ibu kandung (sesuai KTP)</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+         <div class='row'>
+            <div class='label'> Alamat </div> 
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        
+            <div class="row">
+              <div class='label2'> Kelurahan </div>
+            <span>:</span>
+            <div class='underline1a'></div>  
+            <div class='label1'> Kec </div>
+            <span>:</span>
+            <div class='underline'></div>     
+        </div>
+        <div class="row">
+              <div class='label2'> Kota/wilayah </div>
+            <span>:</span>
+            <div class='underline1'></div>  
+            <div class='label1'> Telepon </div>
+            <span>:</span>
+            <div class='underline'></div>     
+        </div>
+        <div class="row">
+              <div class='label3'> Email </div>
+            <span>:</span>
+            <div class='underline1b'></div>  
+            <div class='label1'> HP </div>
+            <span>:</span>
+            <div class='underline'></div>   
+        </div>
+        <div class='row'>
+            <div class='label'>Pendidikan Terakhir</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Pekerjaan/Bagian</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Alamat Kantor</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Hubungan dengan pasien sebagai</div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='container'>
+        <h4>C. KELAS PERAWATAN YANG DIMINTA (bagian ini harus lengkap dan diisi oleh Admission)</h4>
+        <div class='row'>
+            <div class='label'>Kelas perawatan</div>
+            <div class="underline"></div>
+            <span>:</span>
+            <div class='label1'> Kamar </div>
+            <span>:</span>
+            <div class='underline'></div>
+            <div class='label1'> Lantai </div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>Tanggal Masuk</div>
+            <div class="underline"></div>
+            <span>:</span>
+            <div class='label1'> Jam </div>
+            <span>:</span>
+            <div class='underline'></div>
+            <div class='label1'> Dokter </div>
+            <span>:</span>
+            <div class='underline'></div>
+        </div>
+        <div class='row'>
+            <div class='label'>DPJP</div>
+            <div class="underline"></div>
+            <span>:</span>
+        </div>
+        <div class='row'>
+            <div class='label'>Asal pasien (pilih satu)</div>
+            <span>:</span>
+        </div>
+       <span><input type="checkbox" >IGD</span>
+            <span><input type="checkbox" >IRJ </span>
+            <span><input type="Text1">jaminan kesehatan</span>
+        </div>
+        </div>
+</body>
+</html>
